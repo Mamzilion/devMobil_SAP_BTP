@@ -39,4 +39,4 @@ Ce projet a été développé dans le cadre de ma formation en **Génie Informat
    - Lancer l'app : `flutter run`.
 
 ---
-*Développé par **Mamzi (Yerima)** - Étudiant en Réseaux et Sécurité Informatique.*
+*Développé par **Mamzi (Yerima)** - IUT de Ngaoundéré.*
