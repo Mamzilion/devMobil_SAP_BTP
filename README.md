@@ -2,7 +2,7 @@
 
 **Thème :** Digitalisation et sécurisation du flux d'achats dans le secteur du BTP.
 
-Ce projet a été développé dans le cadre de ma formation en **Génie Informatique (Réseaux et Sécurité)** à l'IUT de Ngaoundéré.
+Ce projet a été développé dans le cadre de naotre formation en **Génie Informatique ** à l'IUT de Ngaoundéré.
 
 ---
 
